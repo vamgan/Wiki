@@ -15,6 +15,5 @@
   * [Trees](leetcode/data-structures/trees.md)
 * [Algorithms](leetcode/algorithms.md)
 * [Common Questions](leetcode/common-questions/README.md)
-  * [Two Sum 1](leetcode/common-questions/two-sum-1.md)
   * [1650. Lowest Common Ancestor of a Binary Tree III](leetcode/common-questions/1650.-lowest-common-ancestor-of-a-binary-tree-iii.md)
   * [536. Construct Binary Tree from String](leetcode/common-questions/536.-construct-binary-tree-from-string.md)
